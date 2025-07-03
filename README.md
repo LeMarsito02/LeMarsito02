@@ -32,7 +32,7 @@
 
 [![TikTok](https://img.shields.io/badge/@soylemarsito-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@soylemarsito)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-pe%C3%B1a-beltran-001623277/)
-[![Email](https://img.shields.io/badge/Email-lemartekoficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactolemarsito@gmail.com)
+[![Email](https://img.shields.io/badge/Email-contactolemarsito@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactolemarsito@gmail.com)
 
 ---
 
